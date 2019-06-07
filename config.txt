@@ -1,6 +1,6 @@
 owner=468514598517997588
 prefix=2$
-game=Forest | 2$play
+game=DF_Team| 2$play
 stayinchannel=true
 songinstatus=false
 token=NDgxOTYzMjM3MDc2NjMxNTYy.XPpt1w.Lgd6irWhcp6AGZcb648GmqYeEfw
